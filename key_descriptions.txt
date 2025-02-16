@@ -1,0 +1,70 @@
+KEY DESCRIPTIONS
+
+Alt – The general Alt key (modifier key).
+
+AltGr – The AltGr key (modifier key).
+
+Alt_L – Left Alt key (modifier key). 
+
+Alt_R – Right Alt key (modifier key). 
+
+Backspace – Deletes the previous character. 
+Caps Lock – Toggles uppercase letters on/off.
+
+Cmd – The Windows key (Super key on Linux, Command key on Mac).
+
+Cmd_L – Left Windows/Command key.
+
+Cmd_R – Right Windows/Command key.
+
+Ctrl – The general Ctrl key (modifier key).
+
+Ctrl_L – Left Ctrl key (modifier key).
+
+Ctrl_R – Right Ctrl key (modifier key).
+
+Delete – Removes the selected item or the next character.
+
+Down – Moves the cursor down.
+
+End – Moves the cursor to the end of a line/document.
+
+Enter – Confirms a command or moves to a new line.
+
+Esc – Closes pop-ups or exits a process.
+
+F1 - F20 – Function keys for shortcuts.
+
+Home – Moves the cursor to the beginning of a line/document.
+
+Insert – Toggles insert/overwrite mode (not available on all platforms).
+
+Left – Moves the cursor left.
+
+Menu – Opens a right-click menu (not available on all platforms).
+
+Num Lock – Toggles the numeric keypad on/off.
+
+Page Down – Scrolls down one page.
+
+Page Up – Scrolls up one page.
+
+Pause – Pauses processes (not available on all platforms).
+
+Print Screen – Captures the screen (screenshot).
+
+Right – Moves the cursor right.
+
+Scroll Lock – Used to lock scrolling (not available on all platforms).
+
+Shift – A general Shift key (modifier key).
+
+Shift_L – Left Shift key (modifier key).
+
+Shift_R – Right Shift key (modifier key).
+
+Space – Adds a space.
+
+Tab – Moves the cursor to the next field or tab.
+
+Up – Moves the cursor up.
